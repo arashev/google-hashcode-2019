@@ -10,7 +10,7 @@
 
     <properties>
         <lombok.version>1.16.20</lombok.version>
-        <guava.version>23.6.1-jre</guava.version>
+        <guava.version>24.1.1-jre</guava.version>
     </properties>
 
     <dependencies>
